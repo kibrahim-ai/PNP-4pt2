@@ -31,7 +31,7 @@
         "@webcomponents/webcomponentsjs": "2.5.0",
         "ajv": "~5.2.2",
         "gulp": "4.0.2",
-        "handlebars": "4.7.6",
+        "handlebars": "4.7.7",
         "react-dom": "16.8.5",
         "tslib": "^1.10.0"
     },
